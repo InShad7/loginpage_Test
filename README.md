@@ -1,16 +1,3 @@
 # newlogin
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![loginscreen](https://github.com/InShad7/loginpage_Test/assets/86614144/ff11cf7b-8bcc-4524-a8bf-eda9ec72e1f0)
+![registerscreen](https://github.com/InShad7/loginpage_Test/assets/86614144/cfeb6aa8-4494-4d32-91b8-750b5bb566f2)
